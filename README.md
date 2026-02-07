@@ -99,6 +99,15 @@ This PDF contains **all dashboard pages across Market & Sales, Delivery & Operat
 
 ---
 
+#### 🌐 Tableau Public – Interactive Dashboards
+
+The complete set of interactive dashboards and the Tableau Story are published on Tableau Public.
+
+👉 **View the project on Tableau Public:**  
+🔗 [gauravshinde17](https://public.tableau.com/app/profile/gauravshinde17/viz/BlinkitMaharashtraBusinessPerformanceAnalysis/MarketSalesPerformance)
+
+
+---
 ## Key Insights
 
 ### Sales & Revenue
